@@ -32,7 +32,7 @@ href="/hw/knock_lock.ino">Link to knock lock code</a>
 
    <img src="/hw/prototype.jpg" width="400">
 
-   <img src="/hw/sensorwalk.jp" width="400">
+   <img src="/hw/sensorwalk.jpg" width="400">
 
 
  [link text](url)
