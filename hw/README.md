@@ -12,6 +12,7 @@ href="/hw/color_mixing_lamp.ino">Link to color mixing lamp code</a>
 <br>
 <a
 href="/hw/knock_lock.ino">Link to knock lock code</a>
+<br>
 <a
 href="/hw/midterm.ino">Link to midterm code</a>
 
