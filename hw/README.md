@@ -38,13 +38,13 @@ href="/hw/midterm.ino">Link to midterm code</a>
 
    <img src="/hw/color.JPG" width="400">
 
-    <img src="/hw/arduino.JPG" width="400">
+  <img src="/hw/arduino.JPG" width="400">
 
-     <img src="/hw/full.JPG" width="400">
+  <img src="/hw/full.JPG" width="400">
 
-      <img src="/hw/inks.JPG" width="400">
+  <img src="/hw/inks.JPG" width="400">
 
-       <img src="/hw/pencil.JPG" width="400">
+  <img src="/hw/pencil.JPG" width="400">
 
 
  [link text](url)
