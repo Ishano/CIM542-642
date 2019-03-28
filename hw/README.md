@@ -12,7 +12,8 @@ href="/hw/color_mixing_lamp.ino">Link to color mixing lamp code</a>
 <br>
 <a
 href="/hw/knock_lock.ino">Link to knock lock code</a>
-
+<a
+href="/hw/midterm.ino">Link to midterm code</a>
 
 <br>
 <a href="https://youtu.be/I2947_0MBxo">Link to space ship video</a>
@@ -34,6 +35,16 @@ href="/hw/knock_lock.ino">Link to knock lock code</a>
    <img src="/hw/prototype.jpg" width="400">
 
    <img src="/hw/sensorwalk.jpg" width="400">
+
+   <img src="/hw/color.JPG" width="400">
+
+    <img src="/hw/arduino.JPG" width="400">
+
+     <img src="/hw/full.JPG" width="400">
+
+      <img src="/hw/inks.JPG" width="400">
+
+       <img src="/hw/pencil.JPG" width="400">
 
 
  [link text](url)
