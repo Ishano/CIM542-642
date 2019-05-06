@@ -47,6 +47,14 @@ href="/hw/midterm.ino">Link to midterm code</a>
 
   <img src="/hw/pencil.JPG" width="400">
 
+  <img src="/hw/1.jpg" width="400">
+
+  <img src="/hw/2.jpg" width="400">
+
+  <img src="/hw/3.jpg" width="400">
+
+  <img src="/hw/4.jpg" width="400">
+
 
  [link text](url)
 
