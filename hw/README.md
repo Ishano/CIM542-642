@@ -55,6 +55,80 @@ href="/hw/midterm.ino">Link to midterm code</a>
 
   <img src="/hw/4.jpg" width="400">
 
+  <img src="/hw/5.jpg" width="400">
+
+  <img src="/hw/6.jpg" width="400">
+
+  <img src="/hw/7.jpg" width="400">
+
+  <img src="/hw/8.jpg" width="400">
+
+  <img src="/hw/9.jpg" width="400">
+
+  <img src="/hw/10.jpg" width="400">
+
+  <img src="/hw/11.jpg" width="400">
+
+  <img src="/hw/12.jpg" width="400">
+
+  <img src="/hw/13.jpg" width="400">
+
+  <img src="/hw/14.jpg" width="400">
+
+  <img src="/hw/15.jpg" width="400">
+
+  <img src="/hw/16.jpg" width="400">
+
+  <img src="/hw/17.jpg" width="400">
+
+  <img src="/hw/18.jpg" width="400">
+
+  <img src="/hw/19.jpg" width="400">
+
+  <img src="/hw/20.jpg" width="400">
+
+  <img src="/hw/21.jpg" width="400">
+
+  <img src="/hw/22.jpg" width="400">
+
+  <img src="/hw/23.jpg" width="400">
+
+  <img src="/hw/24.jpg" width="400">
+
+  <img src="/hw/25.jpg" width="400">
+
+  <img src="/hw/26.jpg" width="400">
+
+  <img src="/hw/27.jpg" width="400">
+
+  <img src="/hw/28.jpg" width="400">
+
+  <img src="/hw/29.jpg" width="400">
+
+  <img src="/hw/30.jpg" width="400">
+
+  <img src="/hw/31.jpg" width="400">
+
+  <img src="/hw/32.jpg" width="400">
+
+  <img src="/hw/33.jpg" width="400">
+
+  <img src="/hw/34.jpg" width="400">
+
+  <img src="/hw/35.jpg" width="400">
+
+  <img src="/hw/36.jpg" width="400">
+
+  <img src="/hw/37.jpg" width="400">
+
+  <img src="/hw/38.jpg" width="400">
+
+  <img src="/hw/39.jpg" width="400">
+
+  <img src="/hw/40.jpg" width="400">
+
+  
+
 
  [link text](url)
 
