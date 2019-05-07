@@ -26,7 +26,7 @@ href="/hw/superhero_final.ino">Link to Space Adventure (FINAL) code</a>
 
 <a href="https://www.youtube.com/watch?v=I-wZ2JLCyhg&feature=youtu.be">Link to knock lock video</a>
 
-<a href="https://www.youtube.com/watch?v=Qrc7D1o4B3Y&feature=youtu.be">Link to Spaceship Adventure FINAL video</a>
+<a href="https://www.youtube.com/watch?v=Qrc7D1o4B3Y&feature=youtu.be">Link to Space Adventure FINAL video</a>
 
 <a href="/hw/slides.pdf">Midterm slides</a>
 
