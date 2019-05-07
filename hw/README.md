@@ -127,6 +127,8 @@ href="/hw/superhero_final.ino">Link to Space Adventure (FINAL) code</a>
 
   <img src="/hw/40.jpg" width="400">
 
+  <img src="/hw/slides.pdf" width="400">
+
 
 
 
